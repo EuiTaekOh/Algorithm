@@ -1,2 +1,3 @@
-# Algorithm
-Algorithm
+### Algorithm
+* This repository is for algorithm
+
